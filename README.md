@@ -1,1 +1,1 @@
-![Gerador de Senha](images/gerador.png)
+![Gerador de Senha](gerador.png)
